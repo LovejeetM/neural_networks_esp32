@@ -13,3 +13,9 @@ My current build includes:
 * GUVA-S12SD UV	
 
 Will be training a small Neural-Net for performing predictions and analysis on the data collected by the sensors.
+
+Here is the circuit diagram:
+
+![Circuit Diagram](./circuit_diagram.png)
+
+---
